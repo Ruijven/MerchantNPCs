@@ -1,0 +1,81 @@
+# Black Forest Merchant Items
+# Format: item:price
+
+# Weapons
+SwordBronze:120
+AxeBronze:100
+MaceBronze:120
+AtgeirBronze:150
+SpearBronze:100
+KnifeCopper:80
+PickaxeAntler:100
+SledgeStagbreaker:150
+ArrowBronze:8
+
+# Armor
+HelmetBronze:100
+ArmorBronzeChest:150
+ArmorBronzeLegs:120
+ArmorTrollLeatherChest:100
+ArmorTrollLeatherLegs:80
+HelmetTrollLeather:80
+CapeTrollHide:80
+
+# Shields
+ShieldBronzeBuckler:80
+ShieldBoneTower:100
+
+# Food
+Blueberries:5
+Carrot:5
+CarrotSoup:20
+QueensJam:15
+BoarJerky:15
+MushroomYellow:10
+DeerStew:25
+MinceMeatSauce:20
+
+# Meads
+MeadHealthMinor:50
+MeadStaminaMinor:50
+MeadPoisonResist:60
+MeadTasty:50
+MeadTamer:60
+MeadSwimmer:65
+
+# Materials
+Copper:20
+CopperOre:15
+Tin:15
+TinOre:10
+Bronze:55
+BronzeNails:10
+FineWood:10
+RoundLog:15
+TrollHide:30
+GreydwarfEye:5
+SurtlingCore:100
+AncientSeed:50
+Acorn:5
+BirchSeeds:5
+FirCone:5
+PineCone:5
+Thistle:10
+
+# Tools
+Cultivator:80
+FishingBait:5
+FishingBaitForest:10
+KnifeButcher:60
+
+
+# Trophies
+TrophyGreydwarf:20
+TrophyGreydwarfBrute:30
+TrophyGreydwarfShaman:40
+TrophyFrostTroll:50
+TrophySkeleton:30
+TrophySkeletonPoison:40
+TrophySkeletonHildir:60
+chest_hildir1:100
+TrophyEikthyr:100

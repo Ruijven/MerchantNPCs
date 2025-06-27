@@ -1,0 +1,22 @@
+# Deep North Merchant Items
+# Format: item:price
+
+# Weapons
+# Note: These are mostly placeholder items as Deep North content is still in development
+
+# Armor
+# Placeholder for future Deep North armor sets
+
+# Shields
+# Placeholder for future Deep North shields
+
+# Food
+# Placeholder for future Deep North food items
+
+# Meads
+MeadFrostResist:60
+
+# Materials
+
+# Trophies
+TrophyFader:250

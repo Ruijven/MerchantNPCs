@@ -1,0 +1,66 @@
+# Swamp Merchant Items
+# Format: item:price
+
+# Weapons
+SwordIron:180
+AxeIron:150
+MaceIron:180
+AtgeirIron:200
+Battleaxe:200
+SpearChitin:150
+SpearElderbark:150
+SledgeIron:200
+BowHuntsman:150
+ArrowIron:8
+
+# Armor
+HelmetIron:120
+ArmorIronChest:180
+ArmorIronLegs:150
+HelmetRoot:120
+ArmorRootChest:180
+ArmorRootLegs:150
+
+# Shields
+ShieldIronBuckler:120
+ShieldIronTower:150
+ShieldSerpentscale:180
+ShieldBanded:120
+
+# Food
+Turnip:10
+TurnipStew:25
+Sausages:30
+BlackSoup:25
+SerpentMeat:40
+SerpentStew:60
+ShocklateSmoothie:35
+
+# Meads
+MeadHealthMedium:70
+MeadHasty:70
+MeadStrength:70
+
+# Materials
+Iron:30
+IronNails:8
+IronScrap:20
+ElderBark:15
+Chain:40
+Guck:15
+Ooze:10
+Entrails:15
+WitheredBone:20
+Root:10
+Bloodbag:15
+BombOoze:40
+
+# Trophies
+TrophyAbomination:80
+TrophyBlob:40
+TrophyDraugr:30
+TrophyDraugrElite:50
+TrophyLeech:30
+TrophySurtling:40
+TrophyWraith:60
+TrophyTheElder:125

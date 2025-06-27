@@ -1,0 +1,58 @@
+# Plains Merchant Items
+# Format: item:price
+
+# Weapons
+SwordBlackmetal:450
+AxeBlackMetal:400
+KnifeBlackMetal:350
+AtgeirBlackmetal:500
+MaceNeedle:500
+ArrowNeedle:20
+
+# Armor
+HelmetPadded:200
+ArmorPaddedCuirass:300
+ArmorPaddedGreaves:250
+CapeLinen:180
+CapeLox:180
+
+
+# Shields
+ShieldBlackmetal:250
+ShieldBlackmetalTower:300
+
+# Food
+Barley:20
+Bread:30
+LoxMeat:30
+LoxPie:50
+FishWraps:45
+BloodPudding:40
+Cloudberry:15
+
+# Meads
+BarleyWine:50
+MeadStaminaMedium:70
+MeadBzerker:80
+MeadBugRepellent:75
+
+# Materials
+BlackMetal:80
+BlackMetalScrap:60
+Flax:25
+LinenThread:30
+LoxPelt:80
+Needle:50
+Tar:40
+
+# Trophies
+TrophyDeathsquito:40
+TrophyGoblin:50
+TrophyGoblinBrute:70
+TrophyGoblinShaman:60
+TrophyGrowth:50
+TrophyLox:80
+TrophyGoblinBruteBrosBrute:100
+TrophyGoblinBruteBrosShaman:100
+TrophyDragonQueen:175
+chest_hildir3:150

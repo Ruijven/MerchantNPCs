@@ -1,0 +1,53 @@
+# Meadows Merchant Items
+# Format: item:price
+
+# Weapons
+Club:50
+Bow:80
+SpearFlint:70
+KnifeFlint:60
+AxeFlint:60
+AxeStone:60
+Torch:20
+
+# Armor
+ArmorRagsChest:10
+ArmorRagsLegs:10
+ArmorLeatherChest:80
+ArmorLeatherLegs:70
+HelmetLeather:50
+CapeDeerHide:60
+ShieldWood:60
+ShieldWoodTower:80
+
+# Food
+Raspberry:5
+Mushroom:5
+NeckTail:10
+RawMeat:15
+DeerMeat:15
+Honey:10
+Dandelion:5
+
+# Materials
+Wood:5
+Stone:5
+Flint:10
+Resin:10
+LeatherScraps:15
+DeerHide:20
+Feathers:10
+BoneFragments:5
+BeechSeeds:5
+QueenBee:30
+
+# Tools
+Hammer:20
+Hoe:30
+
+
+# Trophies
+TrophyBoar:20
+TrophyDeer:25
+TrophyNeck:15
+TrophySkeleton:30

@@ -1,0 +1,10 @@
+Z:\Z Docs\Ruijven Gaming\Ruijven Coding\Windsurf Test Projects\MerchantNPCs\bin\Release\MerchantNPCs.deps.json
+Z:\Z Docs\Ruijven Gaming\Ruijven Coding\Windsurf Test Projects\MerchantNPCs\bin\Release\MerchantNPCs.dll
+Z:\Z Docs\Ruijven Gaming\Ruijven Coding\Windsurf Test Projects\MerchantNPCs\bin\Release\MerchantNPCs.pdb
+Z:\Z Docs\Ruijven Gaming\Ruijven Coding\Windsurf Test Projects\MerchantNPCs\obj\Release\MerchantNPCs.csproj.AssemblyReference.cache
+Z:\Z Docs\Ruijven Gaming\Ruijven Coding\Windsurf Test Projects\MerchantNPCs\obj\Release\MerchantNPCs.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Z Docs\Ruijven Gaming\Ruijven Coding\Windsurf Test Projects\MerchantNPCs\obj\Release\MerchantNPCs.AssemblyInfoInputs.cache
+Z:\Z Docs\Ruijven Gaming\Ruijven Coding\Windsurf Test Projects\MerchantNPCs\obj\Release\MerchantNPCs.AssemblyInfo.cs
+Z:\Z Docs\Ruijven Gaming\Ruijven Coding\Windsurf Test Projects\MerchantNPCs\obj\Release\MerchantNPCs.csproj.CoreCompileInputs.cache
+Z:\Z Docs\Ruijven Gaming\Ruijven Coding\Windsurf Test Projects\MerchantNPCs\obj\Release\MerchantNPCs.dll
+Z:\Z Docs\Ruijven Gaming\Ruijven Coding\Windsurf Test Projects\MerchantNPCs\obj\Release\MerchantNPCs.pdb

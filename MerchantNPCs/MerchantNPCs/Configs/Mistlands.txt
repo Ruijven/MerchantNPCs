@@ -1,0 +1,81 @@
+# Mistlands Merchant Items
+# Format: item:price
+
+# Weapons
+SwordMistwalker:600
+THSwordKrom:650
+AxeJotunBane:550
+AxeBlackMetal:500
+BowSpineSnap:600
+CrossbowArbalest:650
+KnifeSkollAndHati:500
+AtgeirHimminAfl:600
+StaffIceShards:600
+StaffShield:550
+StaffSkeleton:600
+SledgeDemolisher:600
+ArrowCarapace:25
+BoltBlackmetal:20
+BoltBone:10
+BoltCarapace:25
+BoltIron:15
+
+# Armor
+HelmetMage:250
+ArmorMageChest:350
+ArmorMageLegs:300
+HelmetCarapace:250
+ArmorCarapaceChest:350
+ArmorCarapaceLegs:300
+CapeFeather:200
+
+# Shields
+ShieldCarapace:300
+ShieldCarapaceBuckler:250
+
+# Food
+BugMeat:20
+HareMeat:25
+FishAndBread:40
+HoneyGlazedChicken:45
+MagicallyStuffedShroom:50
+MeatPlatter:55
+MisthareSupreme:60
+MushroomJotunPuffs:15
+MushroomMagecap:20
+MushroomOmelette:40
+Salad:35
+SeekerAspic:45
+YggdrasilPorridge:50
+
+# Meads
+MeadEitrMinor:70
+MeadStaminaLingering:80
+MeadLightfoot:75
+
+# Materials
+BlackCore:150
+BlackMarble:40
+Carapace:100
+CopperScrap:30
+DvergrNeedle:100
+Eitr:40
+GiantBloodSack:80
+JuteBlue:30
+Lantern:60
+Mandible:40
+RoyalJelly:80
+Sap:30
+ScaleHide:60
+SoftTissue:30
+YggdrasilWood:40
+Bilebag:50
+
+# Trophies
+TrophyDvergr:50
+TrophyGjall:70
+TrophyHare:30
+TrophySeeker:60
+TrophySeekerBrute:80
+TrophyTick:40
+TrophyGoblinKing:200

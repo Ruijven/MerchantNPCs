@@ -1,0 +1,20 @@
+Z:\Z Docs\Ruijven Gaming\Ruijven Coding\Windsurf Test Projects\MerchantNPCs\bin\Debug\MerchantNPCs.deps.json
+Z:\Z Docs\Ruijven Gaming\Ruijven Coding\Windsurf Test Projects\MerchantNPCs\bin\Debug\MerchantNPCs.dll
+Z:\Z Docs\Ruijven Gaming\Ruijven Coding\Windsurf Test Projects\MerchantNPCs\bin\Debug\MerchantNPCs.pdb
+Z:\Z Docs\Ruijven Gaming\Ruijven Coding\Windsurf Test Projects\MerchantNPCs\obj\Debug\MerchantNPCs.csproj.AssemblyReference.cache
+Z:\Z Docs\Ruijven Gaming\Ruijven Coding\Windsurf Test Projects\MerchantNPCs\obj\Debug\MerchantNPCs.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Z Docs\Ruijven Gaming\Ruijven Coding\Windsurf Test Projects\MerchantNPCs\obj\Debug\MerchantNPCs.AssemblyInfoInputs.cache
+Z:\Z Docs\Ruijven Gaming\Ruijven Coding\Windsurf Test Projects\MerchantNPCs\obj\Debug\MerchantNPCs.AssemblyInfo.cs
+Z:\Z Docs\Ruijven Gaming\Ruijven Coding\Windsurf Test Projects\MerchantNPCs\obj\Debug\MerchantNPCs.csproj.CoreCompileInputs.cache
+Z:\Z Docs\Ruijven Gaming\Ruijven Coding\Windsurf Test Projects\MerchantNPCs\obj\Debug\MerchantNPCs.dll
+Z:\Z Docs\Ruijven Gaming\Ruijven Coding\Windsurf Test Projects\MerchantNPCs\obj\Debug\MerchantNPCs.pdb
+Z:\Z Docs\Ruijven Gaming\Ruijven Coding\MerchantNPCs\MerchantNPCs\obj\Debug\MerchantNPCs.csproj.AssemblyReference.cache
+Z:\Z Docs\Ruijven Gaming\Ruijven Coding\MerchantNPCs\MerchantNPCs\obj\Debug\MerchantNPCs.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Z Docs\Ruijven Gaming\Ruijven Coding\MerchantNPCs\MerchantNPCs\obj\Debug\MerchantNPCs.AssemblyInfoInputs.cache
+Z:\Z Docs\Ruijven Gaming\Ruijven Coding\MerchantNPCs\MerchantNPCs\obj\Debug\MerchantNPCs.AssemblyInfo.cs
+Z:\Z Docs\Ruijven Gaming\Ruijven Coding\MerchantNPCs\MerchantNPCs\obj\Debug\MerchantNPCs.csproj.CoreCompileInputs.cache
+Z:\Z Docs\Ruijven Gaming\Ruijven Coding\MerchantNPCs\MerchantNPCs\obj\Debug\MerchantNPCs.dll
+Z:\Z Docs\Ruijven Gaming\Ruijven Coding\MerchantNPCs\MerchantNPCs\obj\Debug\MerchantNPCs.pdb
+Z:\Z Docs\Ruijven Gaming\Ruijven Coding\MerchantNPCs\MerchantNPCs\bin\Debug\MerchantNPCs.deps.json
+Z:\Z Docs\Ruijven Gaming\Ruijven Coding\MerchantNPCs\MerchantNPCs\bin\Debug\MerchantNPCs.dll
+Z:\Z Docs\Ruijven Gaming\Ruijven Coding\MerchantNPCs\MerchantNPCs\bin\Debug\MerchantNPCs.pdb

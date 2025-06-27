@@ -1,0 +1,66 @@
+# Mountain Merchant Items
+# Format: item:price
+
+# Weapons
+SwordSilver:350
+MaceSilver:400
+BattleaxeCrystal:400
+BowDraugrFang:350
+FistFenrirClaw:300
+SpearWolfFang:250
+KnifeSilver:250
+ArrowSilver:15
+ArrowObsidian:12
+ArrowFrost:15
+ArrowPoison:15
+
+#Tools
+Scythe:250
+
+
+# Armor
+HelmetDrake:150
+ArmorWolfChest:250
+ArmorWolfLegs:200
+HelmetFenring:200
+ArmorFenringChest:300
+ArmorFenringLegs:250
+CapeWolf:150
+
+# Shields
+ShieldSilver:200
+
+# Food
+Onion:15
+OnionSoup:30
+WolfMeat:20
+WolfJerky:25
+WolfMeatSkewer:35
+Eyescream:40
+
+# Meads
+MeadFrostResist:60
+
+# Materials
+Silver:50
+SilverOre:30
+Obsidian:25
+WolfClaw:20
+WolfFang:40
+WolfHairBundle:30
+WolfPelt:60
+FreezeGland:40
+DragonEgg:500
+Crystal:30
+JuteRed:25
+
+# Trophies
+TrophyCultist:50
+TrophyFenring:60
+TrophyHatchling:40
+TrophySGolem:70
+TrophyUlv:60
+TrophyWolf:50
+TrophyCultist_Hildir:150
+TrophyBonemass:150
+chest_hildir2:100

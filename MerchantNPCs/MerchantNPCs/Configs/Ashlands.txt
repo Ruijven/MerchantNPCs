@@ -1,0 +1,74 @@
+# Ashlands Merchant Items
+# Format: item:price
+
+# Weapons
+SwordNiedhogg:1200
+AxeBerzerkr:1100
+SpearSplitner:1250
+THSwordSlayer:1250
+MaceEldner:1250
+BowAshlands:1500
+CrossbowRipper:1500
+BoltCharred:30
+ArrowCharred:30
+
+# Armor
+# Flametal Set (Heavy)
+ArmorFlametalChest:1000
+ArmorFlametalLegs:1200
+HelmetFlametal:800
+CapeAsh:1000
+CapeAsksvin:1000
+
+# Embla Set (Light - Eitr Focus)
+HelmetMage_Ashlands:700
+ArmorMageChest_Ashlands:1000
+ArmorMageLegs_Ashlands:900
+
+# Ask Set (Medium)
+HelmetAshlandsMediumHood:750
+ArmorAshlandsMediumChest:1100
+ArmorAshlandsMediumlegs:950
+
+# Shields
+ShieldFlametal:1000
+ShieldBlackmetalTower:900
+
+# Food
+AsksvinMeat:80
+BoneMawSerpentMeat:70
+Fiddleheadfern:40
+MushroomSmokePuff:50
+VoltureEgg:90
+VoltureMeat:60
+Vineberry:45
+
+# Meads
+MeadEitrLingering:75
+BarleyWine:50
+
+
+# Materials
+FlametalNew:250
+FlametalOreNew:180
+CharredBone:120
+Blackwood:100
+CharcoalResin:60
+SulfurStone:70
+Grausten:90
+ProustitePowder:110
+MoltenCore:300
+CelestialFeather:150
+AskHide:150
+AskBladder:175
+
+# Trophies
+TrophyMorgen:200
+TrophyAsksvin:150
+TrophyBonemawSerpent:180
+TrophyCharredMelee:100
+TrophyCharredArcher:100
+TrophyCharredMage:100
+TrophyMorgen:150
+TrophyVolture:150
+TrophySeekerQueen:225
